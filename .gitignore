@@ -26,4 +26,21 @@ yarn-error.log*
 .idea/
 .vscode/
 *.swp
-*.swo 
+*.swo
+
+# .NET
+*.dll
+*.pdb
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.jfm
+bin/
+obj/
+.vs/
+*.ncrunchsolution
+*.ncrunchproject
+*.DotSettings
+*.DotSettings.user 
