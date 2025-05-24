@@ -1,0 +1,12 @@
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/bin/Debug/net9.0/MovieApp.Core.deps.json
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/bin/Debug/net9.0/MovieApp.Core.dll
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/bin/Debug/net9.0/MovieApp.Core.pdb
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/MovieApp.Core.csproj.AssemblyReference.cache
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/MovieApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/MovieApp.Core.AssemblyInfoInputs.cache
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/MovieApp.Core.AssemblyInfo.cs
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/MovieApp.Core.csproj.CoreCompileInputs.cache
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/MovieApp.Core.dll
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/refint/MovieApp.Core.dll
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/MovieApp.Core.pdb
+/Users/cristian/Work/JobHunt/Roweb/MovieApp.Core/obj/Debug/net9.0/ref/MovieApp.Core.dll
